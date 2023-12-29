@@ -1,5 +1,5 @@
 {
-  "name": "sync-storage",
+  "name": "diva-mobile-sync-storage",
   "version": "0.4.3",
   "description": "Synchronous storage for React Native.",
   "main": "src/index.js",
